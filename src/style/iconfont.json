@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9210120",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    }
+  ]
+}
